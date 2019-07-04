@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Skjul af danske betalingsartikler
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Vil sætte opacity lav for at markere hvilke artikler der er betalingsartikler som man alligevel ikke har adgang til
 // @author       Anders Kvist
 // @homepage     https://github.com/anderskvist/TM-SkjulDanskeBetalingsartikler
