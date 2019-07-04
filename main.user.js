@@ -52,7 +52,7 @@
             for(i = 0, l = elements.length; i < l; i++) {
                 element = elements[i];
                 if (element.classList.contains("dre-item--feature-premium")) {
-                    element.style.opacity="0.1";
+                    element.style.opacity=opacity.toString();
                 }
             }
         break;
